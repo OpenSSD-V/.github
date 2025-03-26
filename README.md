@@ -1,2 +1,4 @@
 # OpenSSD-V
-![EU emblem](EU.png) Funded by the European Union, in the context of the [CHORYS project](https://chorys.eu/).
+<img src="EU.png" alt="EU emblem" width="200"/>
+
+<p>Developed in the context of the <a href="https://chorys.eu/">CHORYS project</a>.
